@@ -14,23 +14,18 @@
           <li>Your provider may charge a fee for receiving Sms</li>
           <li>This list is captured from various websites and there is no guarantee that this will work.
           Please check with your provider</li>
+          <li>Found a new email2sms? Please let us know. Something not working? Please let us know.</li>
         </ul>
         <div>
           Last Updated: <xsl:value-of select="LastUpdated"/>
         </div>
-        <table cellspacing="2" cellpadding="2" border="1">
+        <table cellspacing="2" cellpadding="2" border="1" style="margin:20px">
           <tr>
             <th>
               Provider
             </th>
             <th>
               Email
-            </th>
-            <th>
-              Size
-            </th>
-            <th>
-              Website
             </th>
             <th>
               Notes
@@ -44,7 +39,7 @@
 
   <xsl:template match="SmsCountries/SmsCountry">
     <tr>
-      <td colspan="5" style="background-color:lightgray">
+      <td colspan="3" style="background-color:lightgray">
         <xsl:value-of select="@Country"/>
       </td>
     </tr>
@@ -57,12 +52,6 @@
       </td>
       <td>
         <xsl:value-of select="@Email"/>
-      </td>
-      <td>
-        <xsl:value-of select="@Size"/>
-      </td>
-      <td>
-        <xsl:value-of select="@Website"/>
       </td>
       <td>
         <xsl:value-of select="@Notes"/>
