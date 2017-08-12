@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./Email2Sms.xslt" ?>
+
+<Sms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LastUpdated>Jan 1, 2013</LastUpdated>
+  <SmsCountries>
+    <SmsCountry Country="AUSTRALIA">
+      <SmsItems>
+        <SmsItem Company="T-Mobile/Optus Zoo" Email="0n@optusmobile.com.au" Size="114" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="AUSTRIA">
+      <SmsItems>
+        <SmsItem Company="T-Mobile" Email="43676n@sms.t-mobile.at" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="CANADA">
+      <SmsItems>
+        <SmsItem Company="Aliant" Email="n@wirefree.informe.ca" Size="140" Website="" Notes="" />
+        <SmsItem Company="Bell Mobility" Email="n@txt.bellmobility.ca" Size="120" Website="" Notes="" />
+        <SmsItem Company="Fido" Email="n@fido.ca" Size="140" Website="" Notes="" />
+        <SmsItem Company="MTS Mobility" Email="n@text.mtsmobility.com" Size="120" Website="" Notes="" />
+        <SmsItem Company="Rogers Wireless" Email="n@pcs.rogers.com" Size="125" Website="" Notes="" />
+        <SmsItem Company="Sasktel Mobility" Email="n@pcs.sasktelmobility.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Telus" Email="n@msg.telus.com" Size="120" Website="" Notes="" />
+        <SmsItem Company="Virgin Mobile" Email="n@vmobile.ca" Size="140" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="CZECH REPUBLIC">
+      <SmsItems>
+        <SmsItem Company="Vodafone" Email="n@vodafonemail.cz" Size="160" Website="" Notes="" />
+        <SmsItem Company="O2" Email="n@sms.cz.o2.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="T-Mobile" Email="n@click.cz" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="GERMANY">
+      <SmsItems>
+        <SmsItem Company=" T-Mobile" Email="0n@t-d1-sms.de" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone" Email="0n@vodafone-sms.de" Size="160" Website="" Notes="" />
+        <SmsItem Company="O2" Email="0n@o2online.de" Size="160" Website="" Notes="" />
+        <SmsItem Company="E-Plus" Email="0n@smsmail.eplus.de" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="ICELAND">
+      <SmsItems>
+        <SmsItem Company="OgVodafone" Email="n@sms.is" Size="160" Website="" Notes="" />
+        <SmsItem Company="Siminn" Email="n@box.is" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="INDIA">
+      <SmsItems>
+        <SmsItem Company="Andhra Pradesh AirTel" Email="n@airtelap.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Andhra Pradesh Idea Cellular" Email="n@ideacellular.net" Size="160" Website="" Notes="" />
+        <SmsItem Company="Chennai Skycell / Airtel" Email="n@airtelchennai.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Chennai RPG Cellular" Email="n@rpgmail.net" Size="160" Website="" Notes="" />
+        <SmsItem Company="Delhi Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Delhi Hutch" Email="n@delhi.hutch.co.in" Size="160" Website="" Notes="" />
+        <SmsItem Company="Gujarat Idea Cellular" Email="n@ideacellular.net" Size="160" Website="" Notes="" />
+        <SmsItem Company="Gujarat Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Gujarat Celforce / Fascel" Email="n@celforce.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Goa Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Goa BPL Mobile" Email="n@bplmobile.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Goa Idea Cellular" Email="n@ideacellular.net" Size="160" Website="" Notes="" />
+        <SmsItem Company="Haryana Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Haryana Escotel" Email="n@escotelmobile.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Himachal Pradesh Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Karnataka Airtel" Email="n@airtelkk.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Kerala Airtel" Email="n@airtelkerala.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Kerala Escotel" Email="n@escotelmobile.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Kerala BPL Mobile" Email="n@bplmobile.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Kolkata Airtel" Email="n@airtelkol.com or" Size="160" Website="" Notes="" />
+        <SmsItem Company="Madhya Pradesh Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Maharashtra Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Maharashtra BPL Mobile" Email="n@bplmobile.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Maharashtra Idea Cellular" Email="n@ideacellular.net" Size="160" Website="" Notes="" />
+        <SmsItem Company="Mumbai Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Mumbai BPL Mobile" Email="n@bplmobile.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Punjab Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Pondicherry BPL Mobile" Email="n@bplmobile.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Tamil Nadu Airtel" Email="n@airtelmail.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Tamil Nadu BPL Mobile" Email="n@bplmobile.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Tamil Nadu Aircel" Email="n@airsms.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Uttar Pradesh West Escotel" Email="n@escotelmobile.com" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="ITALY">
+      <SmsItems>
+        <SmsItem Company="TIM" Email="0n@timnet.com" Size="350" Website="" Notes="" />
+        <SmsItem Company="Vodafone" Email="3**n@sms.vodafone.it" Size="132" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="JAPAN">
+      <SmsItems>
+        <SmsItem Company="AU by KDDI" Email="u@ezweb.ne.jp" Size="10000" Website="" Notes="" />
+        <SmsItem Company="NTT DoCoMo" Email="n@docomo.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Chuugoku/Western" Email="n@n.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Hokkaido" Email="n@d.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Hokuriko/Central North" Email="n@r.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Kansai/West, including Osaka" Email="n@k.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Kanto/Koushin/East, including Tokyo" Email="n@t.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Kyuushu/Okinawa" Email="n@q.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Shikoku" Email="n@s.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Touhoku/Niigata/North" Email="n@h.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Vodafone Toukai/Central" Email="n@c.vodafone.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Willcom" Email="n@pdx.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Willcom di" Email="n@di.pdx.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Willcom dj" Email="n@dj.pdx.ne.jp" Size="160" Website="" Notes="" />
+        <SmsItem Company="Willcom dk" Email="n@dk.pdx.ne.jp" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="NEPAL">
+      <SmsItems>
+        <SmsItem Company="Spice Nepal" Email="n@mail.spicenepal.com" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="NETHERLANDS">
+      <SmsItems>
+        <SmsItem Company="T-Mobile" Email="31n@gin.nl" Size="160" Website="" Notes="" />
+        <SmsItem Company="Orange" Email="0n@sms.orange.nl" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="SINGAPORE">
+      <SmsItems>
+        <SmsItem Company="M1" Email="n@m1.com.sg" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="SOUTH AFRICA">
+      <SmsItems>
+        <SmsItem Company="Vodacom" Email="n@voda.co.za" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="SPAIN">
+      <SmsItems>
+        <SmsItem Company="Telefonica Movistar" Email="0n@movistar.net" Size="120" Website="" Notes="" />
+        <SmsItem Company="Vodafone" Email="0u@vodafone.es" Size="90" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="SWEDEN">
+      <SmsItems>
+        <SmsItem Company="Tele2" Email="0n@sms.tele2.se" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="UNITED KINGDOM">
+      <SmsItems>
+        <SmsItem Company="O2" Email="+44n@mmail.co.uk" Size="120" Website="" Notes="" />
+        <SmsItem Company="Orange" Email="0n@orange.net" Size="160" Website="" Notes="" />
+        <SmsItem Company="T-Mobile" Email="0n@t-mobile.uk.net" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+    <SmsCountry Country="UNITED STATES">
+      <SmsItems>
+        <SmsItem Company="Teleflip" Email="n@teleflip.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Alltel" Email="n@message.alltel.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Ameritech" Email="n@paging.acswireless.com" Size="120" Website="" Notes="" />
+        <SmsItem Company="ATT Wireless" Email="n@txt.att.net" Size="160" Website="" Notes="" />
+        <SmsItem Company="Bellsouth" Email="n@bellsouth.cl" Size="160" Website="" Notes="" />
+        <SmsItem Company="Boost" Email="n@myboostmobile.com" Size="120" Website="" Notes="" />
+        <SmsItem Company="CellularOne" Email="n@mobile.celloneusa.com" Size="120" Website="" Notes="" />
+        <SmsItem Company="Cingular" Email="1n@mobile.mycingular.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Cricket Communications" Email="n@mms.mycricket.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Edge Wireless" Email="n@sms.edgewireless.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Sprint PCS" Email="n@messaging.sprintpcs.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="T-Mobile" Email="n@tmomail.net" Size="160" Website="" Notes="" />
+        <SmsItem Company="Metro PCS" Email="n@mymetropcs.com" Size="120" Website="" Notes="" />
+        <SmsItem Company="Nextel" Email="n@messaging.nextel.com" Size="126" Website="" Notes="" />
+        <SmsItem Company="O2" Email="n@mobile.celloneusa.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Orange" Email="n@mobile.celloneusa.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Qwest" Email="n@qwestmp.com" Size="100" Website="" Notes="" />
+        <SmsItem Company="Rogers Wireless" Email="n@pcs.rogers.com" Size="160" Website="" Notes="" />
+        <SmsItem Company="Telus Mobility" Email="n@msg.telus.com" Size="120" Website="" Notes="" />
+        <SmsItem Company="US Cellular" Email="n@email.uscc.net" Size="150" Website="" Notes="" />
+        <SmsItem Company="Verizon" Email="n@vtext.com" Size="140" Website="" Notes="" />
+        <SmsItem Company="Virgin Mobile" Email="n@vmobl.com" Size="160" Website="" Notes="" />
+      </SmsItems>
+    </SmsCountry>
+  </SmsCountries>
+</Sms>
