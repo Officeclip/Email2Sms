@@ -4,8 +4,8 @@
   <xsl:output method="html" indent="yes"/>
 
   <xsl:template match="Sms">
-    <body>
-      <html>
+    <html>
+      <body>
         <div style="font-weight:bold">
           List of Email SMS Providers:
         </div>
@@ -33,8 +33,8 @@
           </tr>
         <xsl:apply-templates select="SmsCountries/SmsCountry|SmsCountries/SmsCountry/SmsItems/SmsItem"/>
         </table>
-      </html>
-    </body>
+      </body>
+    </html>
   </xsl:template>
 
   <xsl:template match="SmsCountries/SmsCountry">
