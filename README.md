@@ -1,8 +1,6 @@
 <?xml-stylesheet type="text/xsl" href="./Email2Sms.xslt" ><html>
 <body>
-<div style="font-weight:bold">
-          List of Email SMS Providers:
-        </div>
+<h1>List of Email SMS Providers:</h1>
 <ul>
 <li>Replace n with your phone number</li>
 <li>Your provider may charge a fee for receiving Sms</li>
@@ -25,7 +23,7 @@
             </th>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">AUSTRALIA</td>
+<td colspan="3" style="background-color:lightgray"><strong>AUSTRALIA</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">T-Mobile/Optus Zoo</td>
@@ -33,7 +31,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">AUSTRIA</td>
+<td colspan="3" style="background-color:lightgray"><strong>AUSTRIA</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">T-Mobile</td>
@@ -41,7 +39,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">CANADA</td>
+<td colspan="3" style="background-color:lightgray"><strong>CANADA</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Aliant</td>
@@ -114,7 +112,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">CZECH REPUBLIC</td>
+<td colspan="3" style="background-color:lightgray"><strong>CZECH REPUBLIC</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Vodafone</td>
@@ -132,7 +130,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">GERMANY</td>
+<td colspan="3" style="background-color:lightgray"><strong>GERMANY</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px"> T-Mobile</td>
@@ -155,7 +153,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">ICELAND</td>
+<td colspan="3" style="background-color:lightgray"><strong>ICELAND</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">OgVodafone</td>
@@ -168,7 +166,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">INDIA</td>
+<td colspan="3" style="background-color:lightgray"><strong>INDIA</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Aircel</td>
@@ -241,7 +239,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">ITALY</td>
+<td colspan="3" style="background-color:lightgray"><strong>ITALY</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">TIM</td>
@@ -254,7 +252,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">JAPAN</td>
+<td colspan="3" style="background-color:lightgray"><strong>JAPAN</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">AU by KDDI</td>
@@ -332,7 +330,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">NEPAL</td>
+<td colspan="3" style="background-color:lightgray"><strong>NEPAL</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Spice Nepal</td>
@@ -340,7 +338,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">NETHERLANDS</td>
+<td colspan="3" style="background-color:lightgray"><strong>NETHERLANDS</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">T-Mobile</td>
@@ -353,7 +351,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">SINGAPORE</td>
+<td colspan="3" style="background-color:lightgray"><strong>SINGAPORE</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">M1</td>
@@ -361,7 +359,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">SOUTH AFRICA</td>
+<td colspan="3" style="background-color:lightgray"><strong>SOUTH AFRICA</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Vodacom</td>
@@ -369,7 +367,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">SPAIN</td>
+<td colspan="3" style="background-color:lightgray"><strong>SPAIN</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Telefonica Movistar</td>
@@ -382,7 +380,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">SWEDEN</td>
+<td colspan="3" style="background-color:lightgray"><strong>SWEDEN</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Tele2</td>
@@ -390,7 +388,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">UNITED KINGDOM</td>
+<td colspan="3" style="background-color:lightgray"><strong>UNITED KINGDOM</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Aql</td>
@@ -428,7 +426,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="3" style="background-color:lightgray">UNITED STATES</td>
+<td colspan="3" style="background-color:lightgray"><strong>UNITED STATES</strong></td>
 </tr>
 <tr>
 <td style="padding-left:20px">Alaska Communications</td>

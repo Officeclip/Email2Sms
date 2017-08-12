@@ -6,9 +6,7 @@
   <xsl:template match="Sms">
     <html>
       <body>
-        <div style="font-weight:bold">
-          List of Email SMS Providers:
-        </div>
+          <h1>List of Email SMS Providers:</h1>
         <ul>
           <li>Replace n with your phone number</li>
           <li>Your provider may charge a fee for receiving Sms</li>
@@ -40,7 +38,8 @@
   <xsl:template match="SmsCountries/SmsCountry">
     <tr>
       <td colspan="3" style="background-color:lightgray">
-        <xsl:value-of select="@Country"/>
+        <strong><xsl:value-of select="@Country"/>
+        </strong>
       </td>
     </tr>
   </xsl:template>
