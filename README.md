@@ -490,8 +490,8 @@
 </tr>
 <tr>
 <td style="padding-left:20px">Consumer Cellular</td>
-<td>n@tmomail.net</td>
-<td></td>
+<td>n@txt.att.net</td>
+<td>AT&amp;T MVNO</td>
 </tr>
 <tr>
 <td style="padding-left:20px">Cricket Wireless</td>
@@ -511,7 +511,7 @@
 <tr>
 <td style="padding-left:20px">My Family Mobile</td>
 <td>n@tmomail.net</td>
-<td></td>
+<td>T-Mobile MVNO</td>
 </tr>
 <tr>
 <td style="padding-left:20px">Nextel</td>

@@ -153,11 +153,11 @@
         <SmsItem Company="Cellcom" Email="n@cellcom.quiktxt.com" Notes="" />
         <SmsItem Company="CellularOne" Email="n@mobile.celloneusa.com" Notes="" />
         <SmsItem Company="Centennial Wireless" Email="n@cwemail.com" Notes="" />
-        <SmsItem Company="Consumer Cellular" Email="n@tmomail.net" Notes="" />
+        <SmsItem Company="Consumer Cellular" Email="n@txt.att.net" Notes="AT&amp;T MVNO" />
         <SmsItem Company="Cricket Wireless" Email="n@sms.mycricket.com" Notes="" />
         <SmsItem Company="Edge Wireless" Email="n@sms.edgewireless.com" Notes="" />
         <SmsItem Company="Metro PCS" Email="n@mymetropcs.com" Notes="" />
-        <SmsItem Company="My Family Mobile" Email="n@tmomail.net" Notes="" />
+        <SmsItem Company="My Family Mobile" Email="n@tmomail.net" Notes="T-Mobile MVNO" />
         <SmsItem Company="Nextel" Email="n@messaging.nextel.com" Notes="" />
         <SmsItem Company="O2" Email="n@mobile.celloneusa.com" Notes="" />
         <SmsItem Company="Orange" Email="n@mobile.celloneusa.com" Notes="" />
